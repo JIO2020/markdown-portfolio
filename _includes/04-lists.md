@@ -1,1 +1,11 @@
-Replace this with a list of your favorite things.
+* Basketball
+* Boxing
+* Muay Thai 
+  * Test 2a
+  * Test 2b
+
+1. Item 1
+2. Item 2
+3. Item 3
+   1. Item 3a
+   2. Item 3b
